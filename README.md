@@ -12,7 +12,7 @@ All the checked boxed are changes we have made, that differs from the default co
 > **Warning**
 > 
 > If you have unsinged macros in office files, you will most likely need to change the following settings *Malware Protection->Office Files with Macros*.
-> It you have signed macros, which is recommended, then you can add the signer to the trusted list.
+> If you have signed macros, which is recommended, then you can add the signer to the trusted list.
 ------
 
 ## Agent Settings
