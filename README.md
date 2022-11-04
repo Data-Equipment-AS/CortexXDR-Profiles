@@ -1,5 +1,5 @@
 # CortexXDR-Profiles
-Ready to import Cortex XDR profiles:
+Ready to import Cortex XDR profiles: _[Download](https://github.com/Data-Equipment-AS/CortexXDR-Profiles/raw/main/profiles_20221103125122.export)_
 |os|[Agent Settings](#agent-settings)|[Malware Protection](#malware-protection)|[Exploit Protection](#exploit-protection)|[Restriction Profile](#restriction-profile)|
 |-------|---------------------------|-------------------------------|-------------------------------|--------------------------------|
 |**Win**|[INT] Windows AgentSettings|[INT] Windows MalwareProtection|[INT] Windows ExploitProtection|[INT] Windows RestrictionProfile|
