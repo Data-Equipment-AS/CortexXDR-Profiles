@@ -45,3 +45,4 @@ Ready to import Cortex XDR profiles:
 - [x] **Network Location Files :: _Notify_** [Windows]
 - [x] **Removable Media Files :: _Notify_** [Windows]
 - [x] **Optical Drive Files :: _Notify_** [Windows]
+- *[Restriction Profile Settings](https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-pro-admin/endpoint-security/endpoint-security-profiles/add-restrictions-profile#id17CUM0O0EJH_id2ccede29-5c5c-4429-85e4-aa40fbea5215)*
