@@ -42,3 +42,6 @@ Ready to import Cortex XDR profiles:
 - - _nothing yet_
 
 ## Restriction Settings
+- [x] **Network Location Files :: _Notify_** [Windows]
+- [x] **Removable Media Files :: _Notify_** [Windows]
+- [x] **Optical Drive Files :: _Notify_** [Windows]
