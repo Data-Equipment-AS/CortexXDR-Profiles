@@ -6,6 +6,15 @@ Ready to import Cortex XDR profiles:
 |**mac**|[INT] macOS AgentSettings|[INT] macOS MalwareProtection|[INT] macOS ExploitProtection|*default - nothing to change*|
 |***nix**|[INT] Linux AgentSettings|[INT] Linux MalwareProtection|[INT] Linux ExploitProtection|*default - nothing to change*|
 
+
+All the checked boxed are changes we have made, that differs from the default config. Unchecked boxes are configuration that are dependent on network information, but we do recommend turning it on.
+
+> **Warning**
+> 
+> If you have unsinged macros in office files, you will most likely need to change the following settings *Malware Protection->Office Files with Macros*.
+> It you have signed macros, which is recommended, then you can add the signer to the trusted list.
+------
+
 ## Agent Settings
 - [x] **Agent Auto-Upgrade** [Windows|macOS|Linux]
 - [x] **Monitor and Collect enhanced application logs** [Windows|macOS|Linux]
@@ -33,6 +42,7 @@ Ready to import Cortex XDR profiles:
 - - *[Scan Endpoint for Malware](https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-prevent-admin/investigation-and-response/investigate-endpoints/scan-endpoint-for-malware)*
 
 ## Exploit Protection
+- _[Processes protected by Exploit Protection](https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-prevent-admin/endpoint-security/endpoint-security-profiles/add-exploit-security-profile/processes-protected-by-exploit-security-policy)_
 - [x] **Exploit Protection for Additional Processes**
 - **Windows**
 - - _msedge.exe_
