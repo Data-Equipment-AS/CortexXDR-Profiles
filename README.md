@@ -24,8 +24,13 @@ Ready to import Cortex XDR profiles:
 - - [x] **Credential Gathering Protection: _processes trying to access/steal passwords_** [Windows]
 - - [x] **Anti Webshell Protection: _processes dropping malicious webshells_** [Windows]
 - - [x] **Ransomware Protection: _encryption based activity_** [Windows]
-- [x] **Endpoint Scanning: _Weekly, Sunday 00:00_** [Windows]
-- - [x] **Scan Removable drives** [Windows]
+- - [x] **Mach-O Files** [macOS]
+- - [x] **ELF Files** [Linux]
+- - [x] **Local File Threat: _malicious non-ELF files, such as scripts_** [Linux]
+- - [Manage Quarantined Files](https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-pro-admin/investigation-and-response/investigate-files/manage-quarantined-files)
+- [x] **Endpoint Scanning: _Weekly, Sunday 00:00_** [Windows|macOS|Linux]
+- - [x] **Scan Removable drives** [Windows|Linux]
+- - [Scan Endpoint for Malware](https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-prevent-admin/investigation-and-response/investigate-endpoints/scan-endpoint-for-malware)
 
 ## Exploit Protection
 
