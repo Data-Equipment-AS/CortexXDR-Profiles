@@ -33,6 +33,12 @@ Ready to import Cortex XDR profiles:
 - - *[Scan Endpoint for Malware](https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-prevent-admin/investigation-and-response/investigate-endpoints/scan-endpoint-for-malware)*
 
 ## Exploit Protection
-
+- [x] **Exploit Protection for Additional Processes**
+- **Windows**
+- - _msedge.exe_
+- **macOS**
+- - _nothing yet_
+- **Linux**
+- - _nothing yet_
 
 ## Restriction Settings
