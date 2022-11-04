@@ -6,8 +6,9 @@ Ready to import Cortex XDR profiles:
 |**mac**|[INT] macOS AgentSettings|[INT] macOS MalwareProtection|[INT] macOS ExploitProtection|*default - nothing to change*|
 |***nix**|[INT] Linux AgentSettings|[INT] Linux MalwareProtection|[INT] Linux ExploitProtection|*default - nothing to change*|
 
-
-All the checked boxed are changes we have made, that differs from the default config. Unchecked boxes are configuration that are dependent on network information, but we do recommend turning it on.
+> **Note**
+> 
+> All the checked boxed are changes we have made, that differs from the default config. Unchecked boxes are configuration that are dependent on network information, but we do recommend turning it on.
 
 > **Warning**
 > 
