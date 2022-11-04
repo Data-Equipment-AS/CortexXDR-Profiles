@@ -1,6 +1,6 @@
 # CortexXDR-Profiles
 Ready to import Cortex XDR profiles:
-|os|[Agent Settings](/#agent-settings)|Malware Protection|Exploit Protection|Restriction Profile|
+|os|[Agent Settings](#agent-settings)|Malware Protection|Exploit Protection|Restriction Profile|
 |--|--------------|------------------|------------------|-------------------|
 |**Win**|[INT] Windows AgentSettings|[INT] Windows MalwareProtection|[INT] Windows ExploitProtection|[INT] Windows RestrictionProfile|
 |**mac**|[INT] macOS AgentSettings|[INT] macOS MalwareProtection|[INT] macOS ExploitProtection|*default - nothing to change*|
